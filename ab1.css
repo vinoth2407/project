@@ -1,0 +1,71 @@
+body{
+    background-color: rgb(179, 170, 170);
+}
+a{
+    display: inline;
+}
+
+.cl{
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(87, 87, 87);
+    position: sticky;
+    width: 100%;
+}
+.cl1{
+    
+}
+.cl2 a{
+    padding: 30px;
+    
+}
+.cl2{
+
+    padding-top: 70px;
+    
+}
+h3{
+    padding-left: 22%;
+}
+h4{
+    color:rgb(255, 255, 255);
+}
+#pro{
+    text-align: center;
+}
+#tech{
+    text-align: center;
+}
+#prof{
+    text-align: center;
+}
+#demo1{
+    text-align: center;
+}
+.war p{
+    padding-right: 15%;
+}
+.war1 img{
+    padding-right: 1%;
+}
+.flexBox{
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    margin: auto;
+}
+.imageFlex{
+    margin-top: 5%;
+    margin-left: 26%;
+}
+form{
+    /* margin-left: 600px; */
+    /* border:2px solid black; */
+    width: 50%;
+    margin: auto;
+}
+.border{
+    border: 2px outset black;
+    text-align: center;
+}
